@@ -1,0 +1,5 @@
+1.launch the EC2 virtual machine
+2.ssh -i key-filepath ec2-user@ec2-52-36-159-81.us-west-2.compute.amazonaws.com
+3.mount the data : sudo mount /dev/xvdf ~/data
+4.access the data
+
